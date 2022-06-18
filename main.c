@@ -5,7 +5,7 @@
   
   int main(int argc, char * argv[])
 
-
+  parirum;
   printf("Hello,world\n");
   return 0;
 
